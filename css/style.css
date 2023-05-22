@@ -7,7 +7,7 @@ box-sizing: border-box;
 }
 
 body{
-    background: #222;
+    background: #c3e4ef;
 }
 
 .card{
@@ -39,6 +39,7 @@ body{
 flex:1;
 margin-right:16px ;
 font-size: 18px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .search button{
